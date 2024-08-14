@@ -1,0 +1,8 @@
+com\example\asm2\entity\User.class
+com\example\asm2\controller\LoginController.class
+com\example\asm2\service\UserServiceImpl.class
+com\example\asm2\repository\UserRepository.class
+com\example\asm2\entity\Role.class
+com\example\asm2\Asm2Application.class
+com\example\asm2\service\UserService.class
+com\example\asm2\repository\RoleRepository.class

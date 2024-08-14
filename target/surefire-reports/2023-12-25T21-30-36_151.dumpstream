@@ -1,0 +1,5 @@
+# Created at 2023-12-25T21:30:36.509
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Couser_Funix\FUNiX - PRJ321x.3.0.VN\Project\asm2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
